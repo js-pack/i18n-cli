@@ -1,0 +1,7 @@
+.vscode
+node_modules
+bin
+coverage
+.yalc
+yalc.lock
+i18n/
