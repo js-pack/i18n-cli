@@ -1,6 +1,6 @@
 {
   "name": "@js-pack/i18n-cli",
-  "version": "0.0.0-semantic-release",
+  "version": "1.0.0",
   "description": "key extractor library of @js-papck/i18n",
   "bin": {
     "i18n-cli": "bin/index.js"
